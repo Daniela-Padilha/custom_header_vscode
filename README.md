@@ -27,7 +27,7 @@ your-project/
 
 ## 1️⃣ Create a VS Code Snippet
 
-1. Open **Command Palette** → `Preferences: Configure User Snippets`  
+1. Open **Command Palette** (ctrl+shift+P on windows and linux) → `Preferences: Configure User Snippets`  
 2. Select `cpp.json` (or your language of choice)  
 3. Add the snippet like featured on cpp.json
 

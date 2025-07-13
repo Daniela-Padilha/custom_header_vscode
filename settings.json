@@ -1,0 +1,8 @@
+ "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "\\.(c|cpp|h)$",
+                "cmd": "node scripts/update-header.js ${file}"
+            }
+        ]
+    }
